@@ -1,4 +1,4 @@
-# Bouncing Ball Simulation 🔴
+# Basteball Simulation 🏀
 
 ## Description
 This Python program simulates the motion of a bouncing ball under gravity.  
