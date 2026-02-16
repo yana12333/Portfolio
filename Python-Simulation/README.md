@@ -31,7 +31,7 @@ The goal of this project was to:
 
 ## How to Run
 1. Clone the repository  
-2. Install required packages (`pygame`)  
+2. Install required packages (`pygame`, `random`, `math`)  
 3. Run the main Python file  
 
 # Pendulum Motion Simulation
@@ -52,7 +52,7 @@ It was created as part of coursework to study oscillatory motion and mathematica
 
 ## Technologies
 - Python  
-- Matplotlib / Pygame for visualization  
+- Pygame for visualization  
 - Physics formulas for pendulum motion  
 
 ---
@@ -68,5 +68,5 @@ The goal of this project was to:
 
 ## How to Run
 1. Clone the repository  
-2. Install required packages (`matplotlib` or `pygame`)  
+2. Install required packages (`pygame`, `math`)  
 3. Run the main Python file  
