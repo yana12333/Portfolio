@@ -1,7 +1,8 @@
 # Basteball Simulation 🏀
 
 ## Description
-This Python program simulates the motion of a bouncing ball under gravity.  
+This Python program simulates the motion of a bouncing ball under gravity.
+In addition to the basic physics simulation, the program includes a basketball hoop, and it counts the number of times the ball goes through the hoop.  
 The application was developed as part of a coursework project to practice physics modeling and programming concepts.
 
 ---
