@@ -1,4 +1,4 @@
-# Funny Website
+# Funny Website 😁
 
 ## Description
 This is a playful interactive website designed for entertainment and creativity.  
