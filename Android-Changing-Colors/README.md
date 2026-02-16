@@ -1,4 +1,4 @@
-# Color Changer App (Android)
+# Color Changer App (Android) 🎨
 Changing-Colors - is a simple Android application that changes the background color of the screen each time the user presses a button.  
 The app also counts the number of button clicks (color changes) and allows the user to reset the screen to its initial state.
 
