@@ -1,4 +1,4 @@
-# Bouncing Ball Simulation
+# Bouncing Ball Simulation ⚽
 
 ## Description
 This Python program simulates the motion of a bouncing ball under gravity.  
@@ -34,7 +34,7 @@ The goal of this project was to:
 2. Install required packages (`pygame`, `random`, `math`)  
 3. Run the main Python file  
 
-# Pendulum Motion Simulation
+# Pendulum Motion Simulation 📍
 
 ## Description
 This Python program simulates the motion of a physical pendulum.  
