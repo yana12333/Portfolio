@@ -1,4 +1,4 @@
-# SQLite List App (Android)
+# SQLite List App 🖥️
 
 ## Description
 This Android application demonstrates working with a SQLite database without using adapter classes.  
