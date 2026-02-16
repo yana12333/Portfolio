@@ -16,7 +16,9 @@ In the future, this project will evolve into a bachelor's thesis, where addition
 - Kotlin  
 - Search Algorithms  
 - Object-Oriented Programming  
-- Jetpack Compose  
+- Jetpack Compose
+- State Management
+- Android SDK  
 
 ### Breadth-First Search (BFS)
 Explores all nodes level by level and guarantees the shortest solution path.
@@ -26,5 +28,5 @@ The goal of this project was to study search algorithms, apply them to a real co
 
 ## How to Run
 1. Clone the repository  
-2. Open the project in your IDE  
-3. Run the main file  
+2. Open the project in Android Studio  
+3. Run the application on an emulator or physical device 
