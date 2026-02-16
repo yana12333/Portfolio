@@ -1,4 +1,4 @@
-# 15-Puzzle Solver
+# 15-Puzzle Solver 🧩
 
 ## Description
 This project is a program that solves the classic 15-puzzle problem using the Breadth-First Search (BFS) algorithm.  
