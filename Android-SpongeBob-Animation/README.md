@@ -1,4 +1,4 @@
-# SpongeBob Animation App (Android)
+# SpongeBob Animation App (Android) 🍔
 
 ## Description
 This Android application demonstrates simple animations using images.  
