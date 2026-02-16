@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB2</string>
+    <string name="change_color">Змінити колір</string>
+    <string name="image_desc">Зображення палітри</string>
+    <string name="color_count">Кількість змін кольору: %1$d</string>
+    <string name="restart">Перезапустити</string>
+</resources>

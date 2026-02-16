@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LAB2</string>
+    <string name="change_color">Change color</string>
+    <string name="image_desc">Image of palette</string>
+    <string name="color_count">How many times color changed: %1$d</string>
+    <string name="restart">Restart</string>
+</resources>
