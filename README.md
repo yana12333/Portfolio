@@ -19,13 +19,13 @@ It demonstrates my programming skills, creativity, and experience with both web 
 - **Platform:** Python  
 - **Description:** Simulates the motion of a bouncing ball under gravity.  
 - **Highlights:** Includes a basketball hoop and counts the number of successful shots.  
-- [Project README](./Bouncing-Ball-Simulation/README.md)
+- [Project README](./Python-Simulation/README.md)
 
 ### 3. Pendulum Motion Simulation
 - **Platform:** Python  
 - **Description:** Simulates the motion of a physical pendulum.  
 - **Highlights:** Adjustable pendulum length and initial angle; visualizes oscillatory motion.  
-- [Project README](./Pendulum-Simulation/README.md)
+- [Project README](./Python-Simulation/README.md)
 
 ### 4. Color Changer App
 - **Platform:** Android  
