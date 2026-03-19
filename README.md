@@ -45,7 +45,7 @@ It demonstrates my programming skills, creativity, and experience with both web 
 ### 7. WordAnalayzer
 - Platform: C++ (Console Application)
 - Description: Reads words from a file or command-line arguments, sorts them by the sum of ASCII codes, classifies them as neutral, good, or bad, and saves the results to an output file.
-- [Project README](.//README.md)
+- [Project README](./WordAnalyzer-С++/README.md)
 
 
 ---
