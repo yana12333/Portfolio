@@ -30,7 +30,7 @@ It demonstrates my programming skills, creativity, and experience with both web 
 ### 4. Color Changer App
 - **Platform:** Android  
 - **Description:** Changes the background color when the button is clicked, counts clicks, and allows resetting to the initial state.  
-- [Project README](./Color-Changer-App/README.md)
+- [Project README](./Android-Changing-Colors/README.md)
 
 ### 5. SpongeBob Animation App
 - **Platform:** Android  
