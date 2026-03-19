@@ -42,6 +42,12 @@ It demonstrates my programming skills, creativity, and experience with both web 
 - **Description:** Interactive website with moving buttons, clickable GIFs, hidden surprises, and a playful user experience.  
 - [Project README](./Funny-Website/README.md)
 
+### 7. WordAnalayzer
+- Platform: C++ (Console Application)
+- Description: Reads words from a file or command-line arguments, sorts them by the sum of ASCII codes, classifies them as neutral, good, or bad, and saves the results to an output file.
+- [Project README](.//README.md)
+
+
 ---
 
 Author: Yana Lavyshnik
