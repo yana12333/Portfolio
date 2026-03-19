@@ -35,7 +35,7 @@ It demonstrates my programming skills, creativity, and experience with both web 
 ### 5. SpongeBob Animation App
 - **Platform:** Android  
 - **Description:** Animates SpongeBob rising from the screen, jellyfish floating, and bubbles moving upwards.  
-- [Project README](./SpongeBob-Animation-App/README.md)
+- [Project README](./Android-SpongeBob-Animation/README.md)
 
 ### 6. Funny Website
 - **Platform:** Web (HTML, CSS, JS)  
