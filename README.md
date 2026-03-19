@@ -40,7 +40,7 @@ It demonstrates my programming skills, creativity, and experience with both web 
 ### 6. Funny Website
 - **Platform:** Web (HTML, CSS, JS)  
 - **Description:** Interactive website with moving buttons, clickable GIFs, hidden surprises, and a playful user experience.  
-- [Project README](./Funny-Website/README.md)
+- [Project README](./Funny-website/README.md)
 
 ### 7. WordAnalayzer
 - Platform: C++ (Console Application)
